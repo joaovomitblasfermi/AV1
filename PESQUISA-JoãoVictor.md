@@ -49,3 +49,29 @@ Com a popularidade da ferramenta, outros sistemas buscaram dar suporte a ela, at
 No entanto, o uso da emulação de um sistema Linux tinha impacto na performance da ferramenta nos sistemas operacionais que usavam essa estratégia.
 
 Tendo isso em mente, muitos comandos do Git, inicialmente escritos em Shell Script, foram reescritos na linguagem C, que resultou em ganho de performance em plataformas que não usam o Shell Script como linguagem de linha de comando oficial, como é o caso do Windows.
+
+
+
+#Github:
+
+* # Oque é Github
+
+O Github tem sim muita relação com o Git.
+
+GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle.
+
+Ela vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
+
+O sistema web que o GitHub possui permite que você altere arquivos lá mesmo, apesar de não ser muito aconselhado, pois você não terá um editor, um ambiente de desenvolvimento e de testes.
+
+Para se comunicar com o GitHub e mexer nos arquivos do seu repositório, você pode usar o comando do git e suas diretivas de commit, pull e push.
+
+
+
+# Vscode
+
+* # oque é Vscode
+
+O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft.
+
+A saber, ele está disponível para Windows, Mac e Linux. É criado com Electron, ferramenta criada pelo GitHub que permite a criação de softwares Desktop com HTML, CSS e JavaScript.
